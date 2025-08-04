@@ -1,0 +1,22 @@
+{
+  "liblib_template_uuid": "6f7c4652458d4802969f8d089cf5b91f",
+  "liblib_checkpoint_id": "412b427ddb674b4dbab9e5abd5ae6057",
+  "liblib_vae_id": "",
+  "liblib_clip_skip": 2,
+  "liblib_steps": 20,
+  "liblib_width": 756,
+  "liblib_height": 1344,
+  "liblib_img_count": 1,
+  "liblib_seed": -1,
+  "liblib_restore_faces": 0,
+  "liblib_additional_networks": [
+    {
+      "modelId": "f85878d131e847b8a19b54a64cd59345",
+      "weight": 0.8
+    },
+    {
+      "modelId": "72ab6b25b5be40d5b72b0759ccb193b0",
+      "weight": 0.5
+    }
+  ]
+}
